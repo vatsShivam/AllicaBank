@@ -7,4 +7,4 @@ Steps to Run the Application
 
 
 Steps to run Test\
-1 npm test\
+1 npm test
